@@ -138,12 +138,10 @@ The system includes comprehensive error handling for:
 ## Future Enhancements
 
 Potential improvements could include:
-- Database integration for persistent storage
-- Web-based interface
-- Multiple currency support
-- Advanced reporting features
-- Card expiration management
-- Mobile app integration
+- try catch for Inputs.
+- Integer to Double for Amounts
+- Some validations
+
 
 ## Contributing
 
@@ -152,10 +150,6 @@ Potential improvements could include:
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## License
-
-This project is open source and available under standard terms.
 
 ## Contact
 
